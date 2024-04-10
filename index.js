@@ -68,4 +68,4 @@ Est-ce un VPN ? ${vpnStatus}
     }
 });
 
-client.login('MTIxODk4MzM0NzE1NDU4NzcyMA.G58myn.0o4PsCai8azYsC0_D3i9Bt_rNeuNw_mYrgt9xI')
+client.login('')
